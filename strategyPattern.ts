@@ -1,5 +1,7 @@
 // This wasn't part of the course, just an example I wrote after reading about the strategy pattern.
 
+// *** I'm a test comment line, please ignore me ***
+
 class Shape2D {
   private id: string;
   constructor(id: string) {
